@@ -50,7 +50,7 @@ Acredito que a tecnologia deve servir às pessoas, pois ela pode ajudar a vida d
 
 ## 💬 Vamos Conversar Sobre...
 
-- 💻 Desenvolvimento Frontend
+- 💻 Desenvolvimento Full-Stack
 - 🎨 Design de Interfaces e Experiência do Usuário
 - 🔒 Boas Práticas e Padrões de Código
 - 🌐 Tendências e Tecnologias Emergentes
