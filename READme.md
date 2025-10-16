@@ -30,10 +30,13 @@ Acredito que a tecnologia deve servir às pessoas, pois ela pode ajudar a vida d
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Outras Tecnologias
 ![Git](https://img.shields.io/badge/git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
