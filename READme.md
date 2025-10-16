@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software pela FIAP, apaixonado por tecnologia,
 
 Acredito que a tecnologia deve servir às pessoas, pois ela pode ajudar a vida das mesmas.
 
-- 🔭 Atualmente estudando Desenvolvimento Front-end
+- 🔭 Atualmente estudando Desenvolvimento Back-end
 - 🌱 Explorando os caminhos de Boas Práticas e Cleancode.
 - 👯 Interesse em áreas de Desenvolvimento, IA/ML e Análise de Dados
 - ⚡ Curiosidade: Apaixonado por futebol e jogos
