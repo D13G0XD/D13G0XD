@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software pela FIAP, apaixonado por tecnologia,
 
 Acredito que a tecnologia deve servir às pessoas, pois ela pode ajudar a vida das mesmas.
 
-- 🔭 Atualmente estudando Desenvolvimento Back-end
+- 🔭 Atualmente estudando Desenvolvimento Full Stack
 - 🌱 Explorando os caminhos de Boas Práticas e Cleancode.
 - 👯 Interesse em áreas de Desenvolvimento, IA/ML e Análise de Dados
 - ⚡ Curiosidade: Apaixonado por futebol e jogos
@@ -40,15 +40,6 @@ Acredito que a tecnologia deve servir às pessoas, pois ela pode ajudar a vida d
 
 
 </div>
-
-<br>
-
-## 📊 Estatísticas e Contribuições
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D13G0XD&show_icons=true&theme=holi"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13G0XD&layout=compact&langs_count=7&theme=holi"/>
-</div
 
 <br>
 
